@@ -1,0 +1,13 @@
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\bin\Debug\SpaceBox.exe.config
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\bin\Debug\SpaceBox.exe
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\bin\Debug\SpaceBox.pdb
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\obj\Debug\SpaceBox.csproj.AssemblyReference.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\obj\Debug\SpaceBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\obj\Debug\SpaceBox.Properties.Resources.resources
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\obj\Debug\SpaceBox.csproj.GenerateResource.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\obj\Debug\SpaceBox.csproj.CoreCompileInputs.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\obj\Debug\SpaceBox.exe
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\obj\Debug\SpaceBox.pdb
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\obj\Debug\SpaceBox.Inicio.resources
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\obj\Debug\SpaceBox.Form2.resources
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\obj\Debug\SpaceBox.Form3.resources
