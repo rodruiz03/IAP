@@ -1,0 +1,24 @@
+C:\Users\javie\Documents\Lab3_Estructura\IntroProyecto\IntroProyecto\bin\Debug\IntroProyecto.exe.config
+C:\Users\javie\Documents\Lab3_Estructura\IntroProyecto\IntroProyecto\bin\Debug\IntroProyecto.exe
+C:\Users\javie\Documents\Lab3_Estructura\IntroProyecto\IntroProyecto\bin\Debug\IntroProyecto.pdb
+C:\Users\javie\Documents\Lab3_Estructura\IntroProyecto\IntroProyecto\obj\Debug\IntroProyecto.csproj.AssemblyReference.cache
+C:\Users\javie\Documents\Lab3_Estructura\IntroProyecto\IntroProyecto\obj\Debug\IntroProyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\javie\Documents\Lab3_Estructura\IntroProyecto\IntroProyecto\obj\Debug\IntroProyecto.Form1.resources
+C:\Users\javie\Documents\Lab3_Estructura\IntroProyecto\IntroProyecto\obj\Debug\IntroProyecto.Properties.Resources.resources
+C:\Users\javie\Documents\Lab3_Estructura\IntroProyecto\IntroProyecto\obj\Debug\IntroProyecto.csproj.GenerateResource.cache
+C:\Users\javie\Documents\Lab3_Estructura\IntroProyecto\IntroProyecto\obj\Debug\IntroProyecto.csproj.CoreCompileInputs.cache
+C:\Users\javie\Documents\Lab3_Estructura\IntroProyecto\IntroProyecto\obj\Debug\IntroProyecto.exe
+C:\Users\javie\Documents\Lab3_Estructura\IntroProyecto\IntroProyecto\obj\Debug\IntroProyecto.pdb
+C:\Users\javie\Documents\Lab3_Estructura\IntroProyecto\IntroProyecto\obj\Debug\IntroProyecto.Form2.resources
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\IntroProyecto\IntroProyecto\bin\Debug\IntroProyecto.exe.config
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\IntroProyecto\IntroProyecto\bin\Debug\IntroProyecto.exe
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\IntroProyecto\IntroProyecto\bin\Debug\IntroProyecto.pdb
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\IntroProyecto\IntroProyecto\obj\Debug\IntroProyecto.csproj.AssemblyReference.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\IntroProyecto\IntroProyecto\obj\Debug\IntroProyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\IntroProyecto\IntroProyecto\obj\Debug\IntroProyecto.Form1.resources
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\IntroProyecto\IntroProyecto\obj\Debug\IntroProyecto.Form2.resources
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\IntroProyecto\IntroProyecto\obj\Debug\IntroProyecto.Properties.Resources.resources
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\IntroProyecto\IntroProyecto\obj\Debug\IntroProyecto.csproj.GenerateResource.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\IntroProyecto\IntroProyecto\obj\Debug\IntroProyecto.csproj.CoreCompileInputs.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\IntroProyecto\IntroProyecto\obj\Debug\IntroProyecto.exe
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\IntroProyecto\IntroProyecto\obj\Debug\IntroProyecto.pdb
