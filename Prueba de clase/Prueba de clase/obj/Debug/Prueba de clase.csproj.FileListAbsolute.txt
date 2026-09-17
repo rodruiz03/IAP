@@ -1,0 +1,8 @@
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Prueba de clase\Prueba de clase\bin\Debug\Prueba de clase.exe.config
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Prueba de clase\Prueba de clase\bin\Debug\Prueba de clase.exe
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Prueba de clase\Prueba de clase\bin\Debug\Prueba de clase.pdb
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Prueba de clase\Prueba de clase\obj\Debug\Prueba de clase.csproj.AssemblyReference.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Prueba de clase\Prueba de clase\obj\Debug\Prueba de clase.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Prueba de clase\Prueba de clase\obj\Debug\Prueba de clase.csproj.CoreCompileInputs.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Prueba de clase\Prueba de clase\obj\Debug\Prueba de clase.exe
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Prueba de clase\Prueba de clase\obj\Debug\Prueba de clase.pdb

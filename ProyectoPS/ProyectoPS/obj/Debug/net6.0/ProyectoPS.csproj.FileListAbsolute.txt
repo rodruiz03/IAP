@@ -1,0 +1,15 @@
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\ProyectoPS\ProyectoPS\bin\Debug\net6.0\ProyectoPS.exe
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\ProyectoPS\ProyectoPS\bin\Debug\net6.0\ProyectoPS.deps.json
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\ProyectoPS\ProyectoPS\bin\Debug\net6.0\ProyectoPS.runtimeconfig.json
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\ProyectoPS\ProyectoPS\bin\Debug\net6.0\ProyectoPS.dll
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\ProyectoPS\ProyectoPS\bin\Debug\net6.0\ProyectoPS.pdb
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\ProyectoPS\ProyectoPS\obj\Debug\net6.0\ProyectoPS.csproj.AssemblyReference.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\ProyectoPS\ProyectoPS\obj\Debug\net6.0\ProyectoPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\ProyectoPS\ProyectoPS\obj\Debug\net6.0\ProyectoPS.AssemblyInfoInputs.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\ProyectoPS\ProyectoPS\obj\Debug\net6.0\ProyectoPS.AssemblyInfo.cs
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\ProyectoPS\ProyectoPS\obj\Debug\net6.0\ProyectoPS.csproj.CoreCompileInputs.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\ProyectoPS\ProyectoPS\obj\Debug\net6.0\ProyectoPS.dll
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\ProyectoPS\ProyectoPS\obj\Debug\net6.0\refint\ProyectoPS.dll
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\ProyectoPS\ProyectoPS\obj\Debug\net6.0\ProyectoPS.pdb
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\ProyectoPS\ProyectoPS\obj\Debug\net6.0\ProyectoPS.genruntimeconfig.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\ProyectoPS\ProyectoPS\obj\Debug\net6.0\ref\ProyectoPS.dll
