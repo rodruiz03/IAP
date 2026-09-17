@@ -1,0 +1,8 @@
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Ejemplo de for\Ejemplo de for\bin\Debug\Ejemplo de for.exe.config
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Ejemplo de for\Ejemplo de for\bin\Debug\Ejemplo de for.exe
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Ejemplo de for\Ejemplo de for\bin\Debug\Ejemplo de for.pdb
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Ejemplo de for\Ejemplo de for\obj\Debug\Ejemplo de for.csproj.AssemblyReference.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Ejemplo de for\Ejemplo de for\obj\Debug\Ejemplo de for.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Ejemplo de for\Ejemplo de for\obj\Debug\Ejemplo de for.csproj.CoreCompileInputs.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Ejemplo de for\Ejemplo de for\obj\Debug\Ejemplo de for.exe
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Ejemplo de for\Ejemplo de for\obj\Debug\Ejemplo de for.pdb

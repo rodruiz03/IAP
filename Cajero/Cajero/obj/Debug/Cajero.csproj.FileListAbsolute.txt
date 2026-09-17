@@ -1,0 +1,8 @@
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Cajero\Cajero\bin\Debug\Cajero.exe.config
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Cajero\Cajero\bin\Debug\Cajero.exe
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Cajero\Cajero\bin\Debug\Cajero.pdb
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Cajero\Cajero\obj\Debug\Cajero.csproj.AssemblyReference.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Cajero\Cajero\obj\Debug\Cajero.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Cajero\Cajero\obj\Debug\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Cajero\Cajero\obj\Debug\Cajero.exe
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Cajero\Cajero\obj\Debug\Cajero.pdb
