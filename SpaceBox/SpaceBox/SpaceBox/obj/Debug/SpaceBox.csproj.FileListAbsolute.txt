@@ -1,0 +1,39 @@
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\bin\Debug\SpaceBox.exe.config
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\bin\Debug\SpaceBox.exe
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\bin\Debug\SpaceBox.pdb
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\obj\Debug\SpaceBox.csproj.AssemblyReference.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\obj\Debug\SpaceBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\obj\Debug\SpaceBox.Properties.Resources.resources
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\obj\Debug\SpaceBox.csproj.GenerateResource.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\obj\Debug\SpaceBox.csproj.CoreCompileInputs.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\obj\Debug\SpaceBox.exe
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\obj\Debug\SpaceBox.pdb
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\obj\Debug\SpaceBox.Inicio.resources
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\obj\Debug\SpaceBox.Form2.resources
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\SpaceBox\SpaceBox\obj\Debug\SpaceBox.Form3.resources
+C:\Users\Estudiante\Downloads\SpaceBox\SpaceBox\SpaceBox\bin\Debug\SpaceBox.exe.config
+C:\Users\Estudiante\Downloads\SpaceBox\SpaceBox\SpaceBox\bin\Debug\SpaceBox.exe
+C:\Users\Estudiante\Downloads\SpaceBox\SpaceBox\SpaceBox\bin\Debug\SpaceBox.pdb
+C:\Users\Estudiante\Downloads\SpaceBox\SpaceBox\SpaceBox\obj\Debug\SpaceBox.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Downloads\SpaceBox\SpaceBox\SpaceBox\obj\Debug\SpaceBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estudiante\Downloads\SpaceBox\SpaceBox\SpaceBox\obj\Debug\SpaceBox.Inicio.resources
+C:\Users\Estudiante\Downloads\SpaceBox\SpaceBox\SpaceBox\obj\Debug\SpaceBox.Form2.resources
+C:\Users\Estudiante\Downloads\SpaceBox\SpaceBox\SpaceBox\obj\Debug\SpaceBox.Form3.resources
+C:\Users\Estudiante\Downloads\SpaceBox\SpaceBox\SpaceBox\obj\Debug\SpaceBox.Properties.Resources.resources
+C:\Users\Estudiante\Downloads\SpaceBox\SpaceBox\SpaceBox\obj\Debug\SpaceBox.csproj.GenerateResource.cache
+C:\Users\Estudiante\Downloads\SpaceBox\SpaceBox\SpaceBox\obj\Debug\SpaceBox.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Downloads\SpaceBox\SpaceBox\SpaceBox\obj\Debug\SpaceBox.exe
+C:\Users\Estudiante\Downloads\SpaceBox\SpaceBox\SpaceBox\obj\Debug\SpaceBox.pdb
+C:\Users\hecto\Desktop\SpaceBox\SpaceBox\SpaceBox\obj\Debug\SpaceBox.csproj.AssemblyReference.cache
+C:\Users\hecto\Desktop\SpaceBox\SpaceBox\SpaceBox\obj\Debug\SpaceBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\hecto\Desktop\SpaceBox\SpaceBox\SpaceBox\obj\Debug\SpaceBox.Inicio.resources
+C:\Users\hecto\Desktop\SpaceBox\SpaceBox\SpaceBox\obj\Debug\SpaceBox.Form2.resources
+C:\Users\hecto\Desktop\SpaceBox\SpaceBox\SpaceBox\obj\Debug\SpaceBox.Form3.resources
+C:\Users\hecto\Desktop\SpaceBox\SpaceBox\SpaceBox\obj\Debug\SpaceBox.Properties.Resources.resources
+C:\Users\hecto\Desktop\SpaceBox\SpaceBox\SpaceBox\obj\Debug\SpaceBox.csproj.GenerateResource.cache
+C:\Users\hecto\Desktop\SpaceBox\SpaceBox\SpaceBox\obj\Debug\SpaceBox.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Desktop\SpaceBox\SpaceBox\SpaceBox\obj\Debug\SpaceBox.exe
+C:\Users\hecto\Desktop\SpaceBox\SpaceBox\SpaceBox\obj\Debug\SpaceBox.pdb
+C:\Users\hecto\Desktop\SpaceBox\SpaceBox\SpaceBox\bin\Debug\SpaceBox.exe.config
+C:\Users\hecto\Desktop\SpaceBox\SpaceBox\SpaceBox\bin\Debug\SpaceBox.exe
+C:\Users\hecto\Desktop\SpaceBox\SpaceBox\SpaceBox\bin\Debug\SpaceBox.pdb
