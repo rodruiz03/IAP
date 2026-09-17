@@ -1,0 +1,8 @@
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Meses\Meses\bin\Debug\Meses.exe.config
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Meses\Meses\bin\Debug\Meses.exe
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Meses\Meses\bin\Debug\Meses.pdb
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Meses\Meses\obj\Debug\Meses.csproj.AssemblyReference.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Meses\Meses\obj\Debug\Meses.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Meses\Meses\obj\Debug\Meses.csproj.CoreCompileInputs.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Meses\Meses\obj\Debug\Meses.exe
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Archivos primer ciclo\Introduccion a la programacion\Proyectos Visual Estudio\Meses\Meses\obj\Debug\Meses.pdb
